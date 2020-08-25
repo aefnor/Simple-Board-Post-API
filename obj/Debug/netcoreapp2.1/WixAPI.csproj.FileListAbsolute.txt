@@ -1,0 +1,3 @@
+C:\Users\aefno\source\repos\WixProject\WixAPI\obj\Debug\netcoreapp2.1\WixAPI.AssemblyInfoInputs.cache
+C:\Users\aefno\source\repos\WixProject\WixAPI\obj\Debug\netcoreapp2.1\WixAPI.AssemblyInfo.cs
+C:\Users\aefno\source\repos\WixProject\WixAPI\obj\Debug\netcoreapp2.1\WixAPI.csproj.CoreCompileInputs.cache
